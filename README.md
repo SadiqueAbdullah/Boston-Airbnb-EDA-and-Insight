@@ -33,6 +33,9 @@ In this analysis we have performed the Exploratory Data Analysis on the Boston A
 2. The RandomForest Model improved the model performance and gave a r_squared value of 0.6
 3. The most important variables are number of bedrooms, availability, host_listing count and number of reviews
 
+![image](https://user-images.githubusercontent.com/77229486/120884969-ee4a9980-c603-11eb-8317-eedabe0e8bd4.png)
+
+
 
 #### Medium Blogpost details
 
