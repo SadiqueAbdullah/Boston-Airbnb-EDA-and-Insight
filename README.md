@@ -1,9 +1,4 @@
 # Boston-Airbnb-EDA-and-Insight
-
-
-
-### About the Analysis:
-
 Airbnb is one of the widely used platform by hosts to accommodate guests for lodging and tourism-related activities.
 We will be analyzing the Boston Airbnb data to get more insight into it . It will include prediction about the pricing and various factors influencing the pricing related to listing by hosts.
 
